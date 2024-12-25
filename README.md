@@ -16,6 +16,10 @@
 - **框架/庫:** Vue, Node.js, Django, Flask
 - **開發工具:** Git, VSCode
 
+## 正在追的團體
+
+- **櫻坂46**
+
 ## GitHub統計
 
 ![MurayamaMiu的GitHub統計數據](https://github-readme-stats.vercel.app/api?username=MurayamaMiu&show_icons=true&theme=radical)
