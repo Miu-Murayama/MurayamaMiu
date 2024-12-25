@@ -8,13 +8,13 @@
 - 👯 我希望在令人興奮的開源項目上進行合作。
 - 💬 詢問任何與Web開發，Python或JavaScript相關的事情。
 
-## 語言和工具
+## 程式語言與開發工具
 
 以下是一些我使用的語言和工具:
 
 - **語言:** TypeScript, Python, HTML, CSS, C#
-- **框架/圖書館:** Vue, Node.js, Django, Flask
-- **工具:** Git, Docker, VSCode
+- **框架/庫:** Vue, Node.js, Django, Flask
+- **工具:** Git, VSCode
 
 ## GitHub統計
 
