@@ -22,4 +22,4 @@
 
 ## GitHub統計
 
-![MurayamaMiu的GitHub統計數據](https://github-readme-stats.vercel.app/api?username=MurayamaMiu&show_icons=true&theme=radical)
+![MurayamaMiu的GitHub統計數據](https://github-readme-stats.vercel.app/api?username=Miu-Murayama&show_icons=true&theme=radical)
