@@ -22,6 +22,7 @@
 
 ## GitHub統計
 
-![MurayamaMiu的GitHub統計數據](https://github-readme-stats.vercel.app/api?username=Miu-Murayama&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miu-Murayama&layout=compact)
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Miu-Murayama&theme=calm&show_icons=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miu-Murayama&theme=calm&langs_count=6&layout=compact" />
+</div>
